@@ -10,3 +10,6 @@ print("{}{}".format("value is ", b))
 
 for x in range(2,22,2):
     print(x)
+
+for y in range(17,187,17):
+    print(y)
