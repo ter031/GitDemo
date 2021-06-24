@@ -18,3 +18,6 @@ summation = 0
 for a in range(1,101,2):
     summation = summation + a
 print(summation)
+
+for y in range(13,143,13):
+    print(y)

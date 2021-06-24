@@ -16,3 +16,6 @@ for y in range(17,187,17):
 
 for y in range(19,209,19):
     print(y)
+
+for y in range(13,143,13):
+    print(y)
