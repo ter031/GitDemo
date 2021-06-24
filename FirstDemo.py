@@ -7,3 +7,6 @@ b,c,d = 23,34.9,"pyhton"
 print(b,c,d)
 
 print("{}{}".format("value is ", b))
+
+for x in range(2,22,2):
+    print(x)
