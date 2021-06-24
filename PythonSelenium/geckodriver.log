@@ -1,0 +1,12 @@
+1623235848558	geckodriver	INFO	Listening on 127.0.0.1:50548
+1623235851707	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deepa\\AppData\\Local\\Temp\\rust_mozprofileYh9mTw"
+1623235852728	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623235858612	Marionette	INFO	Listening on port 50556
+1623235858983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623235897014	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:2500:11
+1623235908870	Marionette	INFO	Stopped listening on port 50556
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks

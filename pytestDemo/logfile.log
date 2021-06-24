@@ -1,0 +1,16 @@
+2021-06-17 10:53:25,921 : INFO : pytestDemo.test_logging : Information statement
+2021-06-17 10:53:25,922 : WARNING : pytestDemo.test_logging : Something is in warning mode
+2021-06-17 10:53:25,923 : ERROR : pytestDemo.test_logging : A major error has happened
+2021-06-17 10:53:25,923 : CRITICAL : pytestDemo.test_logging : Critical issue
+2021-06-17 10:59:02,226 : DEBUG : pytestDemo.test_logging : A debug statement is executed
+2021-06-17 10:59:02,226 : INFO : pytestDemo.test_logging : Information statement
+2021-06-17 10:59:02,226 : WARNING : pytestDemo.test_logging : Something is in warning mode
+2021-06-17 10:59:02,226 : ERROR : pytestDemo.test_logging : A major error has happened
+2021-06-17 10:59:02,227 : CRITICAL : pytestDemo.test_logging : Critical issue
+2021-06-17 11:16:21,806 : INFO : pytestDemo.BaseClass : ['deepak', 'thakur', 'thakurdpk786@gmail.com']
+2021-06-17 11:23:05,916 : INFO : pytestDemo.BaseClass : ['deepak', 'thakur', 'thakurdpk786@gmail.com']
+2021-06-17 11:23:05,922 : DEBUG : pytestDemo.test_logging : A debug statement is executed
+2021-06-17 11:23:05,922 : INFO : pytestDemo.test_logging : Information statement
+2021-06-17 11:23:05,922 : WARNING : pytestDemo.test_logging : Something is in warning mode
+2021-06-17 11:23:05,922 : ERROR : pytestDemo.test_logging : A major error has happened
+2021-06-17 11:23:05,922 : CRITICAL : pytestDemo.test_logging : Critical issue
