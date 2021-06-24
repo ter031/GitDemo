@@ -10,6 +10,8 @@ a[1] = "DEEPAK"
 print(a)
 del a[0]
 print(a)
+a.append("ghumarwin")
+print(a)
 
 b = (12,34.5,"deepak",True)
 print(b[0:4])
