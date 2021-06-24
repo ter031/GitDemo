@@ -13,3 +13,6 @@ for x in range(2,22,2):
 
 for y in range(17,187,17):
     print(y)
+
+for y in range(19,209,19):
+    print(y)
